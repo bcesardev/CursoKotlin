@@ -41,67 +41,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.fundamentos.controles.ContinueKt">
-    <configuration name="fundamentos.controles.Break1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.fundamentos.operadores.Ternario2Kt">
+    <configuration name="fundamentos.operadores.LogicosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.Break1Kt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.LogicosKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fundamentos.controles.Break2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.operadores.RelacionaisKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.Break2Kt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.RelacionaisKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fundamentos.controles.ContinueKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.operadores.Ternario1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.ContinueKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Ternario1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fundamentos.controles.DoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.operadores.Ternario2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.DoWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Ternario2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fundamentos.controles.For4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.operadores.UnariosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.For4Kt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.UnariosKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.fundamentos.controles.ContinueKt" />
-        <item itemvalue="Kotlin.fundamentos.controles.Break2Kt" />
-        <item itemvalue="Kotlin.fundamentos.controles.Break1Kt" />
-        <item itemvalue="Kotlin.fundamentos.controles.DoWhileKt" />
-        <item itemvalue="Kotlin.fundamentos.controles.For4Kt" />
+        <item itemvalue="Kotlin.fundamentos.operadores.Ternario2Kt" />
+        <item itemvalue="Kotlin.fundamentos.operadores.Ternario1Kt" />
+        <item itemvalue="Kotlin.fundamentos.operadores.UnariosKt" />
+        <item itemvalue="Kotlin.fundamentos.operadores.LogicosKt" />
+        <item itemvalue="Kotlin.fundamentos.operadores.RelacionaisKt" />
       </list>
     </recent_temporary>
   </component>
