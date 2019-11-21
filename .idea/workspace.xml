@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a06a1e18-c858-4555-86f8-7dd6e25c1083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,41 +45,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.funcoes.UnitReturnKt">
-    <configuration name="ChamandoFuncaoKotlin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funcoes.ChamandoFuncaoKotlin" />
-      <module name="CursoKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="funcoes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="funcoes.FuncaoinfixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.funcoes.Inline2Kt">
+    <configuration name="funcoes.FuncaoComoParametro1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoinfixKt" />
+      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoComoParametro1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcoes.SegundoElementoListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="funcoes.FuncaoComoParametro2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="funcoes.SegundoElementoListKt" />
+      <option name="MAIN_CLASS_NAME" value="funcoes.FuncaoComoParametro2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcoes.Inline1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="funcoes.Inline1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcoes.Inline2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="funcoes.Inline2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcoes.VarArgsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CursoKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="funcoes.VarArgsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.funcoes.Inline2Kt" />
+        <item itemvalue="Kotlin.funcoes.Inline1Kt" />
+        <item itemvalue="Kotlin.funcoes.FuncaoComoParametro2Kt" />
+        <item itemvalue="Kotlin.funcoes.FuncaoComoParametro1Kt" />
         <item itemvalue="Kotlin.funcoes.UnitReturnKt" />
-        <item itemvalue="Kotlin.funcoes.FuncaoinfixKt" />
-        <item itemvalue="Kotlin.funcoes.VarArgsKt" />
-        <item itemvalue="Application.ChamandoFuncaoKotlin" />
-        <item itemvalue="Kotlin.funcoes.SegundoElementoListKt" />
       </list>
     </recent_temporary>
   </component>
