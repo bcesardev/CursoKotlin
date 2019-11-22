@@ -1,6 +1,7 @@
 package fundamentos.operadores
 
 fun main() {
+
     val executouTrabalho1: Boolean = true
     val executouTrabalho2: Boolean = true
 
