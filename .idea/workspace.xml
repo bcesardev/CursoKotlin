@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a06a1e18-c858-4555-86f8-7dd6e25c1083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/operadores/Logicos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Logicos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,67 +46,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.BlocoInitKt">
-    <configuration name="classes.BlocoInitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.classes.Enum2Kt">
+    <configuration name="classes.Enum1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.BlocoInitKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Enum1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.ClassVsDataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.Enum2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.ClassVsDataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.Construtor1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.GettersCalculadosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.Construtor1Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.GettersCalculadosKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.Construtor2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.MembrosClasseVsIntanciaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.Construtor2Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.MembrosClasseVsIntanciaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.TiposVariaveisKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.PassagemReferenciaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.TiposVariaveisKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.PassagemReferenciaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.classes.BlocoInitKt" />
-        <item itemvalue="Kotlin.classes.Construtor2Kt" />
-        <item itemvalue="Kotlin.classes.Construtor1Kt" />
-        <item itemvalue="Kotlin.classes.ClassVsDataClassKt" />
-        <item itemvalue="Kotlin.classes.TiposVariaveisKt" />
+        <item itemvalue="Kotlin.classes.Enum2Kt" />
+        <item itemvalue="Kotlin.classes.Enum1Kt" />
+        <item itemvalue="Kotlin.classes.PassagemReferenciaKt" />
+        <item itemvalue="Kotlin.classes.MembrosClasseVsIntanciaKt" />
+        <item itemvalue="Kotlin.classes.GettersCalculadosKt" />
       </list>
     </recent_temporary>
   </component>
