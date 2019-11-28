@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a06a1e18-c858-4555-86f8-7dd6e25c1083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,67 +38,67 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Kotlin.collections.ArrayLIstObjetosKt">
-    <configuration name="collections.ArrayLIstIntKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.collections.HashcodeEqualsKt">
+    <configuration name="collections.ConjuntoBaguncadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayLIstIntKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ConjuntoBaguncadoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.ArrayLIstObjetosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.ConjuntoComportadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayLIstObjetosKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ConjuntoComportadoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.ArrayListMixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.HashcodeEqualsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayListMixKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.HashcodeEqualsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.ArrayListUniaoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.Map1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayListUniaoKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.Map1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.Map2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.Map2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.collections.ArrayLIstObjetosKt" />
-        <item itemvalue="Kotlin.collections.ArrayListUniaoKt" />
-        <item itemvalue="Kotlin.collections.ArrayListMixKt" />
-        <item itemvalue="Kotlin.collections.ArrayLIstIntKt" />
-        <item itemvalue="Kotlin.collections.ArraysKt" />
+        <item itemvalue="Kotlin.collections.HashcodeEqualsKt" />
+        <item itemvalue="Kotlin.collections.Map2Kt" />
+        <item itemvalue="Kotlin.collections.Map1Kt" />
+        <item itemvalue="Kotlin.collections.ConjuntoComportadoKt" />
+        <item itemvalue="Kotlin.collections.ConjuntoBaguncadoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -152,21 +153,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574960528083">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574966833443">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528083" />
-    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574960528082">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
+    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574966833443">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528082" />
-    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574960528082">
+    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574966833443">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528082" />
-    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574960528083">
+    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574966833443">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528083" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1574965427966">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574965427966" />
   </component>
 </project>
