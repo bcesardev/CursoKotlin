@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a06a1e18-c858-4555-86f8-7dd6e25c1083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -153,25 +153,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574966833443">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574970205170">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
-    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574966833443">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
+    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574970205170">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
-    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574966833443">
+    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574970205170">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
-    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574966833443">
+    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574970205170">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574966833443" />
-    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1574965427966">
+    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
+    <state x="1989" y="236" key="run.anything.popup" timestamp="1574972778855">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574965427966" />
+    <state x="1989" y="236" key="run.anything.popup/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574972778855" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1574972948027">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574972948027" />
   </component>
 </project>
