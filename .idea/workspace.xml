@@ -38,33 +38,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Kotlin.collections.HashcodeEqualsKt">
-    <configuration name="collections.ConjuntoBaguncadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CursoKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ConjuntoBaguncadoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="collections.ConjuntoComportadoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="CursoKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.ConjuntoComportadoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.oo.polimorfismo.ComPolimorfsimoKt">
     <configuration name="collections.HashcodeEqualsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
@@ -78,27 +52,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.Map1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="oo.heranca.Heranca2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.Map1Kt" />
+      <option name="MAIN_CLASS_NAME" value="oo.heranca.Heranca2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.Map2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="oo.heranca.TesteKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.Map2Kt" />
+      <option name="MAIN_CLASS_NAME" value="oo.heranca.TesteKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oo.polimorfismo.ComPolimorfsimoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.ComPolimorfsimoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oo.polimorfismo.SemPolimorfismoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="CursoKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.SemPolimorfismoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.oo.polimorfismo.ComPolimorfsimoKt" />
+        <item itemvalue="Kotlin.oo.polimorfismo.SemPolimorfismoKt" />
+        <item itemvalue="Kotlin.oo.heranca.Heranca2Kt" />
+        <item itemvalue="Kotlin.oo.heranca.TesteKt" />
         <item itemvalue="Kotlin.collections.HashcodeEqualsKt" />
-        <item itemvalue="Kotlin.collections.Map2Kt" />
-        <item itemvalue="Kotlin.collections.Map1Kt" />
-        <item itemvalue="Kotlin.collections.ConjuntoComportadoKt" />
-        <item itemvalue="Kotlin.collections.ConjuntoBaguncadoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -153,22 +153,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574970205170">
+    <state x="2104" y="236" width="442" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1574974730030">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
-    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574970205170">
+    <state x="2104" y="236" width="442" height="560" key="#com.intellij.ide.util.MemberChooser/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574974730030" />
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574976209535">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
-    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574970205170">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574976209535" />
+    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574976209535">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
-    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574970205170">
+    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574976209535" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574976209535">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574970205170" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574976209535" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574976209535">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574976209535" />
     <state x="1989" y="236" key="run.anything.popup" timestamp="1574972778855">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
