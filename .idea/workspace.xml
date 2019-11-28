@@ -37,67 +37,67 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Kotlin.lambdas.ApplyKt">
-    <configuration name="lambdas.ApplyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.collections.ArrayLIstObjetosKt">
+    <configuration name="collections.ArrayLIstIntKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.ApplyKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayLIstIntKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.FilterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.ArrayLIstObjetosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayLIstObjetosKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.Map1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.ArrayListMixKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.Map1Kt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListMixKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.Map2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.ArrayListUniaoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.Map2Kt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListUniaoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.TakeIfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collections.ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="CursoKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lambdas.TakeIfKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.lambdas.ApplyKt" />
-        <item itemvalue="Kotlin.lambdas.TakeIfKt" />
-        <item itemvalue="Kotlin.lambdas.Map2Kt" />
-        <item itemvalue="Kotlin.lambdas.Map1Kt" />
-        <item itemvalue="Kotlin.lambdas.FilterKt" />
+        <item itemvalue="Kotlin.collections.ArrayLIstObjetosKt" />
+        <item itemvalue="Kotlin.collections.ArrayListUniaoKt" />
+        <item itemvalue="Kotlin.collections.ArrayListMixKt" />
+        <item itemvalue="Kotlin.collections.ArrayLIstIntKt" />
+        <item itemvalue="Kotlin.collections.ArraysKt" />
       </list>
     </recent_temporary>
   </component>
@@ -152,21 +152,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574781099023">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom" timestamp="1574960528083">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574781099023" />
-    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574781099023">
+    <state width="1874" height="280" key="GridCell.Tab.0.bottom/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528083" />
+    <state width="1874" height="280" key="GridCell.Tab.0.center" timestamp="1574960528082">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574781099023" />
-    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574781099022">
+    <state width="1874" height="280" key="GridCell.Tab.0.center/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528082" />
+    <state width="1874" height="280" key="GridCell.Tab.0.left" timestamp="1574960528082">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574781099022" />
-    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574781099023">
+    <state width="1874" height="280" key="GridCell.Tab.0.left/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528082" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right" timestamp="1574960528083">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574781099023" />
+    <state width="1874" height="280" key="GridCell.Tab.0.right/0.312.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1574960528083" />
   </component>
 </project>
